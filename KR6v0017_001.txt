@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:09.144957
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 天公經
 #+PROPERTY: CBETA_ID W01n0014c
 #+PROPERTY: ID KR6v0017
@@ -13,7 +13,7 @@
 
  ¶
 
-錄文三¶
+* 錄文三¶
 ¶
 
 （前殘）¶
