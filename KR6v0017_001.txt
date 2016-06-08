@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:09.144957
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 天公經
 #+PROPERTY: CBETA_ID W01n0014c
 #+PROPERTY: ID KR6v0017
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014c
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0017_W_000-0372a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0017_W_001-0372a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
+¶
 
- ¶
-
-錄文三¶
+* 〔錄文三〕¶
 ¶
 
 （前殘）¶
